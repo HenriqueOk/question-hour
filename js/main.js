@@ -6,7 +6,8 @@ $(document).ready(function() {
  		"https://www.youtube.com/watch?v=NdJQopRuH1E",
 		"https://youtu.be/SkTt9k4Y-a8?t=2m19s",
  		"https://youtu.be/PWgvGjAhvIw?t=1m7s",
- 		"https://youtu.be/otCpCn0l4Wo?t=14s"
+ 		"https://youtu.be/otCpCn0l4Wo?t=14s",
+		"https://www.youtube.com/watch?v=NdJQopRuH1E"
 	];
 
 	var size = songsUrls.length;
