@@ -7,7 +7,10 @@ $(document).ready(function() {
 		"https://youtu.be/SkTt9k4Y-a8?t=2m19s",
  		"https://youtu.be/PWgvGjAhvIw?t=1m7s",
  		"https://youtu.be/otCpCn0l4Wo?t=14s",
-		"https://www.youtube.com/watch?v=NdJQopRuH1E"
+		"https://www.youtube.com/watch?v=NdJQopRuH1E",
+		"https://www.youtube.com/watch?v=-tJYN-eG1zk", //Queen - We Will Rock You
+		"https://www.youtube.com/watch?v=dQw4w9WgXcQ", // You just got Ricky Rolled
+		"https://www.youtube.com/watch?v=yRh-dzrI4Z4" //Pirates of the Caribbean - He's a Pirate (Argh)
 	];
 
 	var size = songsUrls.length;
